@@ -77,6 +77,10 @@ A API foi desenvolvida utilizando Java, Spring Boot, Spring Web e Spring Data JP
 }
 ```
 
+**Postman**
+
+![Descrição da imagem](postman/01.img)
+
 ---
 
 #### Consultar Clientes
