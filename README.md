@@ -79,7 +79,7 @@ A API foi desenvolvida utilizando Java, Spring Boot, Spring Web e Spring Data JP
 
 **Postman**
 
-![Descrição da imagem](./postman/01.img)
+![Cadastrar Cliente](https://raw.githubusercontent.com/kaiquesouzasantoss/uninter-back-end-baozi-api/refs/heads/main/postman/01.png)
 
 ---
 
@@ -101,6 +101,10 @@ A API foi desenvolvida utilizando Java, Spring Boot, Spring Web e Spring Data JP
   }
 ]
 ```
+
+**Postman**
+
+![Consultar Clientes](https://raw.githubusercontent.com/kaiquesouzasantoss/uninter-back-end-baozi-api/refs/heads/main/postman/02.png)
 
 ---
 
@@ -133,6 +137,10 @@ A API foi desenvolvida utilizando Java, Spring Boot, Spring Web e Spring Data JP
 }
 ```
 
+**Postman**
+
+![Cadastrar Produto](https://raw.githubusercontent.com/kaiquesouzasantoss/uninter-back-end-baozi-api/refs/heads/main/postman/03.png)
+
 ---
 
 #### Consultar Produtos
@@ -154,6 +162,10 @@ A API foi desenvolvida utilizando Java, Spring Boot, Spring Web e Spring Data JP
   }
 ]
 ```
+
+**Postman**
+
+![Consultar Produtos](https://raw.githubusercontent.com/kaiquesouzasantoss/uninter-back-end-baozi-api/refs/heads/main/postman/04.png)
 
 ---
 
@@ -188,6 +200,11 @@ A API foi desenvolvida utilizando Java, Spring Boot, Spring Web e Spring Data JP
 }
 ```
 
+**Postman**
+
+![Realizar Pedido](https://raw.githubusercontent.com/kaiquesouzasantoss/uninter-back-end-baozi-api/refs/heads/main/postman/05.png)
+
+
 ---
 
 #### Consultar Pedidos
@@ -211,6 +228,10 @@ A API foi desenvolvida utilizando Java, Spring Boot, Spring Web e Spring Data JP
 ]
 ```
 
+**Postman**
+
+![Consultar Pedidos](https://raw.githubusercontent.com/kaiquesouzasantoss/uninter-back-end-baozi-api/refs/heads/main/postman/06.png)
+
 ---
 
 ## Métodos HTTP Utilizados
@@ -230,62 +251,13 @@ A API foi desenvolvida utilizando Java, Spring Boot, Spring Web e Spring Data JP
 - Spring Boot
 - Spring Web
 - Spring Data JPA
-- MySQL
+- H2
 - Maven
 - JSON
 - Postman
 
 ---
 
-# Prints do Postman
-
-## Cadastro de Cliente
-
-**Espaço para Print**
-
-![Cadastro Cliente](docs/printsg
-
----
-
-## Consulta de Clientes
-
-**Espaço para Print**
-
-docs/prints/lista-clientes.png
-
----
-
-## Cadastro de Produto
-
-**Espaço para Print**
-
-docs/prints/cadastro-produto.png
-
----
-
-## Consulta de Produtos
-
-**Espaço para Print**
-
-docs/prints/lista-produtos.png
-
----
-
-## Realização de Pedido
-
-**Espaço para Print**
-
-docs/prints/cadastro-pedido.png
-
----
-
-## Consulta de Pedidos
-
-**Espaço para Print**
-
-![Listaints/lista-pedidos.png
-
----
 
 # Repositório
 
@@ -298,7 +270,5 @@ https://github.com/kaiquesouzasantoss/uninter-back-end-baozi-api
 # Autor
 
 Kaique Souza Santos
-
 RU: 5207084
-
 Centro Universitário Internacional UNINTER
